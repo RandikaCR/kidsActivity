@@ -24,7 +24,7 @@
                 </a>
             </div>
             <div class="summary">
-                <h2>Pretty Little Girl</h2>
+                <h2>Product Name goes here</h2>
                 <p class="price">
                     <del>$120</del>
                     <span>$100</span>
